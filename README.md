@@ -1,0 +1,2 @@
+#  Smart Cemetery Management System
+
